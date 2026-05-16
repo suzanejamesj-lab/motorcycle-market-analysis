@@ -1,20 +1,33 @@
-## Motorcycle Market Analysis
-Exploratory analysis of 10,000+ motorcycle sales records to uncover market trends and support business decisions.
-## Objective
-To analyze the Indian motorcycle market and identify trends across price, mileage, and regional demand.
+# Indian Motorcycle Market Analysis
+### Exploratory analysis of 10,000+ sales records
 
-## Approach
-- Cleaned and analyzed 10,000+ sales records using Excel  
-- Segmented data across price tiers, mileage, and regions  
-- Built visualizations using Tableau to identify patterns  
+## The Problem
+Where should a motorcycle brand focus — which price tier, 
+which region, which segment? This analysis answers that.
 
-## Key Insights
-- Identified high-demand price segments across regions  
-- Found correlation between mileage and resale value  
-- Highlighted regional demand differences for specific bike categories  
+## What I Did
+- Cleaned and modelled 10,000+ records across price tiers, 
+  mileage, resale value, and 5 regional markets
+- Built visualizations to surface demand clusters
+- Analyzed fuel type distribution (Petrol vs Hybrid vs Electric)
+- Compared resale value across engine capacity ranges
 
-## Outcome
-Delivered data-driven insights to support market positioning and strategic decision-making.
+## Key Findings
+- Mid-range bikes (251-500cc) hold the highest resale value
+- Electric motorcycles already at 32.8% market share — 
+  nearly equal to petrol
+- Hero, TVS, Honda dominate budget segment; 
+  Royal Enfield, KTM own premium
+- Low CC bikes depreciate fastest despite high sales volume
 
-## Tools Used
-Excel, Tableau
+## Business Implications
+- Premium second-hand dealerships viable in urban areas
+- Manufacturers should double down on hybrid/EV given near-equal share
+- Trade-in programs could boost low-CC segment retention
+
+## Tools
+Excel · Tableau · Python (visualization)
+
+## Author
+**Suzane J**
+[LinkedIn](linkedin.com/in/suzanejames) · suzanejjames@gmail.com
